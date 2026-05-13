@@ -1,8 +1,8 @@
-# 👋 I'm [Name] – Automation & Full-Stack Developer
+# 👋 I'm Mujtabaa Suliman – Automation & Full-Stack Developer
 
-I build and operate **end-to-end products** — from code to deployed infrastructure.
+I build and operate end-to-end products — from code to deployed infrastructure.
 
-**Currently seeking**: Full-stack / DevOps / Automation Engineer roles
+Currently seeking: Full-stack / DevOps / Automation Engineer roles
 
 ---
 
