@@ -40,7 +40,7 @@ Currently seeking: Full-stack / DevOps / Automation Engineer roles
 
 ## 📫 Let's talk
 
-[LinkedIn] | [Email] | [Resume]
+www.linkedin.com/in/mujtabaa-suliman-270a76302 | muj1sul@gmail.com |
 
 
 # 🎬 Audio-Video Tools for macOS
