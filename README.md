@@ -43,41 +43,6 @@ Currently seeking: Full-stack / DevOps / Automation Engineer roles
 www.linkedin.com/in/mujtabaa-suliman-270a76302 | muj1sul@gmail.com |
 
 
-# 🎬 Audio-Video Tools for macOS
-
-**Professional video processing suite** with highlight detection, audio-video sync, and smart video splitting.
-
-[![macOS](https://img.shields.io/badge/macOS-10.15+-blue.svg)](https://www.apple.com/macos)
-[![Python](https://img.shields.io/badge/Python-3.9+-green.svg)](https://www.python.org)
-[![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-orange.svg)](https://www.riverbankcomputing.com/software/pyqt/)
-[![FFmpeg](https://img.shields.io/badge/FFmpeg-6.0+-red.svg)](https://ffmpeg.org)
-
----
-
-## ✨ Features
-
-| Feature | Description | Tech Stack |
-|---------|-------------|-------------|
-| 🎯 **Smart Highlight Detection** | Automatically finds best moments using audio peaks + motion analysis | NumPy, SciPy, FFmpeg |
-| 🔊 **Audio-Video Sync** | Aligns external audio with video using cross-correlation | Signal processing, FFmpeg |
-| ✂️ **Smart Video Splitter** | Splits videos into clips with vertical format (Shorts/TikTok) support | FFmpeg filters |
-| 🍎 **Native macOS** | Dark mode support, Finder integration, system notifications | PyQt5, macOS APIs |
-
----
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-```bash
-# Install FFmpeg (required)
-brew install ffmpeg
-
-# Install Python dependencies
-pip install -r requirements.txt
-
-
-
 
 
 
