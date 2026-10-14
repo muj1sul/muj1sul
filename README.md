@@ -11,7 +11,7 @@ Currently seeking: Full-stack / DevOps / Automation Engineer roles
 **Video editing automation** → **Sales website** → **Self-hosted live**
 
 - **Automation engine**: Python + FFmpeg. Processes [X] min video in [Y] sec.
-- **Web frontend**: [React/Next.js] with Stripe payments, license key delivery.
+- **Web frontend**: PHP/JS PayStack payments, license key delivery.
 - **Backend & infra**: Dockerized Node.js/PostgreSQL on my own Linux server. Reverse proxy with Nginx, automatic SSL via Let's Encrypt, daily backups.
 
 > 🔗 **Live demo**: [yourwebsite.com]  
