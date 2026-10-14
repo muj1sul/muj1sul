@@ -14,8 +14,8 @@ Currently seeking: Full-stack / DevOps / Automation Engineer roles
 - **Web frontend**: PHP/JS PayStack payments, license key delivery.
 - **Backend & infra**: Dockerized Node.js/PostgreSQL on my own Linux server. Reverse proxy with Nginx, automatic SSL via Let's Encrypt, daily backups.
 
-> 🔗 **Live demo**: [yourwebsite.com]  
-> 📁 **Code**: [repo 1] [repo 2] [repo 3]
+> 🔗 **Live demo**: centaumate.com  
+> 📁 **Code**: [[repo 1]](https://github.com/muj1sul/audio-video-tools) [repo 2] [repo 3]
 
 ---
 
